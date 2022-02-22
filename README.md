@@ -10,3 +10,6 @@ efers to the method as multiple linear regression.
 ![alt text](https://miro.medium.com/max/1400/1*Cw5ZSYDkIFpmhBwr-hN84A.png)
 
 
+
+
+
