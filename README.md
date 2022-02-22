@@ -8,6 +8,9 @@ When there is a single input variable (x), the method is referred to as simple l
 efers to the method as multiple linear regression.
 
 ![alt text](https://miro.medium.com/max/1400/1*Cw5ZSYDkIFpmhBwr-hN84A.png)
+![Screenshot (117)](https://user-images.githubusercontent.com/55338522/155186891-da168050-cc6b-4980-825d-248cbfe2c75e.png)
+
+
 
 
 
